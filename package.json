@@ -1,0 +1,12 @@
+{
+  "name": "validation-chain",
+  "version": "0.1.0",
+  "description": "Validate object with chained functions",
+  "main": "index.js",
+  "repository": "https://github.com/tobiasmelen/validation-chain",
+  "author": "Tobias Melen",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
